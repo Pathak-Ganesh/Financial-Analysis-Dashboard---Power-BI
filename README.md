@@ -48,6 +48,6 @@ A downward trend in specific months indicates potential business cycles or deman
 🔹 Implement drill-down filters for deeper insights into sales performance.
 🔹 Introduce profit margin analysis to assess cost efficiency.
 
-File: 
+File: https://github.com/Pathak-Ganesh/Financial-Analysis-Dashboard---Power-BI/blob/main/Financial%20Analysis%20dashboard.pbix
 
 Dashboard: ![Financial_analysis](https://github.com/user-attachments/assets/f9852f52-675d-44af-a501-8fc794b771dc)
